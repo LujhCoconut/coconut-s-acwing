@@ -1,0 +1,3 @@
+D:/Algorithm/negative_circle/cmake-build-debug/CMakeFiles/negative_circle.dir
+D:/Algorithm/negative_circle/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Algorithm/negative_circle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
