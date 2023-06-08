@@ -1,0 +1,3 @@
+D:/Algorithm/primitive_queen_dfs/cmake-build-debug/CMakeFiles/primitive_queen_dfs.dir
+D:/Algorithm/primitive_queen_dfs/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Algorithm/primitive_queen_dfs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
