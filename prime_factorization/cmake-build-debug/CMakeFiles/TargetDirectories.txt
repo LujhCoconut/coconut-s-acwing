@@ -1,0 +1,3 @@
+D:/Algorithm/prime_factorization/cmake-build-debug/CMakeFiles/prime_factorization.dir
+D:/Algorithm/prime_factorization/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Algorithm/prime_factorization/cmake-build-debug/CMakeFiles/rebuild_cache.dir

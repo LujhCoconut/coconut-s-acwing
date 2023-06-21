@@ -1,0 +1,3 @@
+D:/Algorithm/sieve_prime/cmake-build-debug/CMakeFiles/sieve_prime.dir
+D:/Algorithm/sieve_prime/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Algorithm/sieve_prime/cmake-build-debug/CMakeFiles/rebuild_cache.dir
